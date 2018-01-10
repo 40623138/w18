@@ -80,6 +80,26 @@
 <v t="leo.20171108214102.1"><vh>結尾</vh>
 <v t="leo.20171108214135.1"><vh>心得</vh></v>
 </v>
+<v t="leo.20180110230043.1"><vh>開始</vh>
+<v t="leo.20180110230057.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180110230102.1"><vh>W10</vh>
+<v t="leo.20180110230111.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180110230103.1"><vh>W11</vh>
+<v t="leo.20180110230110.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180110230103.2"><vh>W12~W15</vh>
+<v t="leo.20180110230108.1"><vh>newHeadline</vh>
+<v t="leo.20180110230330.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180110230408.1"><vh>分配</vh>
+<v t="leo.20180110230414.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20180110230103.3"><vh>心得</vh>
+<v t="leo.20180110230107.1"><vh>newHeadline</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -684,6 +704,93 @@ for i in range(1,5):
 
 ###W7~W9
 * 期中考週，將影片錄製完成上傳至Youtube及Vimeo</t>
+<t tx="leo.20180110230043.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110230057.1">#4 0 6 2 3 1 3 8
+#四設一甲　黃柏諺
+
+## 2017Fall CADP 與 CP
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by 柏諺
+&lt;/small&gt;
+
+[我的網誌](blog/index.html)
+</t>
+<t tx="leo.20180110230102.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110230103.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110230103.2">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20180110230103.3"></t>
+<t tx="leo.20180110230107.1"># 期末心得
+
+從剛開始完全不會碰程式，到了點下Star.bat，第一次碰指令碼，後來學習建立fossil倉儲，也做了網誌及投影片，這兩樣東西記錄著我學習的點點滴滴，身為學生的我們在學習過程中，知道自己在做甚麼事情是一件很重要的事情，到了期中考結束之後，我們接觸了Pytho3的程式碼 ，也就是我們現在製作的計算機程式，在計算機程式製作之前，我們先協同建立Github倉儲，在製作過程中得先排除很多衝突，為了避免衝突加快效率，所以分工合作，討論研究出一台能用的計算機，雖然過程有些許的困難與障礙，但是我們學習了很多跟程式有關的東西，做完非常有成就感。
+
+自評成績: 70分
+</t>
+<t tx="leo.20180110230108.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110230110.1"># W11
+
+* 建立Github個人倉儲，以及加入小組協同倉儲
+
+↓Github指令區↓
+
+* git add . 　　  　　　　　新增
+* git commit -m "提交訊息" 提交
+* git push 　　　　　　　  推送
+* git config --global user.email "you@example.com" 使用者資料
+* git config --global user.name "your name" 使用者資料
+
+</t>
+<t tx="leo.20180110230111.1"># W10
+
+客製化可攜程式
+
+* 運用launchLeo.py修改Start.bat，更改自己要開啟幾個cmd與launchLeo.py，並要求開啟Leo Editor指定到自己的.leo專案檔。
+
+&lt;img src="https://cpa.kmol.info/40623138/raw/ac5402187fbd5359aad6e54f06f835ffb7fdea5b56edd1c2daaf223e866e2248?m=image/png" width="300" height="150"&gt;
+
+* 下載Dia 及 Gimp 程式，進行圖檔編輯。
+</t>
+<t tx="leo.20180110230330.1"># W12~W15
+
+* 開始PyQt5計算機程式的期末專案，小組協同組合一個，每個組員負責一小部分，了解程式中指令的運用，最後自己拍一個編輯計算機的影片，並上傳youtube附上心得在github，利用Pandoc 與 MikTeX 協同編寫期末報告。
+* 下載Python2017fall_36-2.7z
+</t>
+<t tx="leo.20180110230408.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110230414.1"># 計算機小組分配工作
+
+* 40623147--減號按鍵 '-', 按下後進行兩數相減
+* 40623138--加號按鍵 '+', 按下後進行兩數相加
+* 40623139--小數點按鍵'.', 按下後顯示小數點
+* 40623137--等於按鍵 '=', 將運算結果列在顯示幕
+* 40623146--乘號按鍵 '*', 按下後進行兩數相乘
+* 40623148--除號按鍵 '/', 按下後進行兩數相除
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
